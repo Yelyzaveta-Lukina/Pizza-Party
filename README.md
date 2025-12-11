@@ -29,8 +29,6 @@ The formula:
 
 total pizzas = ceil(people * slices_per_person / slices_per_pizza)
 
-yaml
-Copy code
 
 ---
 
